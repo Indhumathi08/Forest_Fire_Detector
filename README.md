@@ -57,7 +57,7 @@ uncontrollable.
 > #### Setting up backend
 >- Step-1: Download the model from [here](https://drive.google.com/file/d/1OeKLmlx25cM0sTBrU1wxGDYcV4UINZHN/view?usp=sharing).
 >- Step-2: Extract model to "model" folder inside "forest_fire" directory(where setting folder is located)
->- Step-3: Create a new enviroment and run `pip install -r requiremets.txt`.
+>- Step-3: Create a new enviroment and run `pip install -r requirements.txt`.
 >- Step-4: Run `python manage.py runserver`.  
 
 > #### Setting up frontend
